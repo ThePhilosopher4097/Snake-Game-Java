@@ -1,1 +1,1 @@
-# Snake-Game-Java
+# Simple Snake-Game-in Java
